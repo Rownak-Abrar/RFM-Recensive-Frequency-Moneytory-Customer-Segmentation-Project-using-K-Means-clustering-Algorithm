@@ -1,1 +1,1 @@
-In this real life project, I have analyzed a two years data of a supershop with almost 4100 peoples. A tons of data to process and I have made 3 groups according to their buying history.Hope you all enjoy the real life peoject.
+In this real life project, I have analyzed a two years data of a supershop with almost 4400 peoples. A tons of data to process and I have made 3 groups according to their buying history.Hope you all enjoy the real life peoject.
